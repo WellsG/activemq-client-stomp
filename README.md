@@ -19,3 +19,6 @@ install Authen::Credential      <br/>
 ````
 perl -d stomp-client.pl
 ````
+
+[STOMP Protocol Manual](https://activemq.apache.org/apollo/documentation/stomp-manual.html)  
+[STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html)
