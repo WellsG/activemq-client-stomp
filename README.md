@@ -8,10 +8,12 @@ Enter 'h' for help.
 cpan[1]> 
 
 #### Install related moudle here:
-install JSON
-install Data::Dumper
-install Net::STOMP::Client
-install Authen::Credential 
+````
+install JSON                    <br/>
+install Data::Dumper            <br/>
+install Net::STOMP::Client      <br/>
+install Authen::Credential      <br/>
+````
 
 #### Run the client
 perl -d stomp-client.pl
