@@ -11,10 +11,10 @@ cpan[1]>
 
 #### Install related moudle here:
 ````
-install JSON                    <br/>
-install Data::Dumper            <br/>
-install Net::STOMP::Client      <br/>
-install Authen::Credential      <br/>
+install JSON                    
+install Data::Dumper            
+install Net::STOMP::Client      
+install Authen::Credential      
 ````
 
 #### Run the client
