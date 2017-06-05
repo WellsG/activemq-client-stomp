@@ -8,7 +8,7 @@ Enter 'h' for help.
 
 cpan[1]> 
 
-#### Install related moudle via [capn](https://www.cpan.org/):
+#### Install related moudle via [cpan](https://www.cpan.org/):
 ````
 install JSON                    
 install Data::Dumper            
